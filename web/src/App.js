@@ -20,12 +20,13 @@ import OwnerQuestionsPage from './pages/OwnerQuestionsPage'
 import { useAuthState } from "react-firebase-hooks/auth";
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCTySyvuIDPg7RWF6ceuuwC2t3BEiAK38o",
-  authDomain: "question-app-demo.firebaseapp.com",
-  projectId: "question-app-demo",
-  storageBucket: "question-app-demo.appspot.com",
-  messagingSenderId: "1038673531562",
-  appId: "1:1038673531562:web:da90421f639a3115dcf6d3"
+  apiKey: "AIzaSyAbl5bAN5il10e6b09tO-aB96J2P-odCqk",
+  authDomain: "appretosofka.firebaseapp.com",
+  projectId: "appretosofka",
+  storageBucket: "appretosofka.appspot.com",
+  messagingSenderId: "528870817799",
+  appId: "1:528870817799:web:87e4873d21bdbc362aaaa2",
+  
 });
 
 const auth = firebase.auth();
